@@ -4,7 +4,7 @@ const Form = () => {
     return (
      <div className="mt-28 mx-auto md:w-2/4 px-5">
         <h3 className="text-center text-3xl font-bold md:text-4xl mb-12 md:w-[100%] m-auto">
-            Preencha os campos abaixo para obter a nossa oferta especial Black Friday
+            Preencha os campos abaixo para obter uma oferta especial de 30% de desconto
         </h3>
 
             <div id="mlb2-5795111" className="text-center ml-form-embedContainer ml-subscribe-form ml-subscribe-form-5795111">
@@ -14,7 +14,7 @@ const Form = () => {
                             <div className="ml-form-embedContent" style={{marginBottom:0}}></div>
                             <form className="ml-block-form" action="https://static.mailerlite.com/webforms/submit/d6m8v4" data-code="d6m8v4" method="post" target="_blank">
                             <div className="ml-form-formContent">
-                                <div class="ml-form-fieldRow">
+                                 <div class="ml-form-fieldRow">
                                     <div class="ml-field-group ml-field-name ml-validate-required">
                                         <input aria-label="name" aria-required="true" type="text" class="form-control" data-inputmask="" name="fields[name]" placeholder="Nome" autocomplete="name" />
                                     </div>
